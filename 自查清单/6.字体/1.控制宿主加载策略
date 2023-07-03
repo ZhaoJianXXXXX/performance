@@ -1,0 +1,5 @@
+优先级：高
+
+操作步骤：
+- 把关键字体配置为 font-display: block
+- 次要字体配置为 font-display: swap

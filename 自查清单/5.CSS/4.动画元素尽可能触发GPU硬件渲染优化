@@ -1,0 +1,4 @@
+优先级：低
+
+操作步骤：
+可以通过给动画元素设置 transform: translateZ(0) 或者 will-change: transform 来触发浏览器的 GPU 硬件加速

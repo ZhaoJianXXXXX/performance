@@ -1,0 +1,6 @@
+优先级：高
+
+操作步骤：
+最基本的要求是
+- 使用 ESM 、不用 commonjs
+- 确认项目 package.json 里存在 { sideEffects: false } 配置

@@ -1,0 +1,5 @@
+优先级：高
+
+含义：
+使用 Transform Runtime 以降低重复的 Babel Helpers 的体积
+注意启用Transform Runtime
